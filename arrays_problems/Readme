@@ -1,0 +1,12 @@
+while creating ------- only once
+git init
+git add A-
+git commit -m " name of the commit"
+git branch -M main
+git remote origin "url"
+git push -u origin main
+<!--  -------------------------------------------------------------->
+after creating file
+git add -A
+ git commit -m "name" 
+git push
